@@ -39,3 +39,23 @@ Before performing EDA, we should have a clear objective. So we can make the righ
 Link to create YouTube API Key: https://console.cloud.google.com/ <br>
 Link to Google YouTube Data API documentation: https://developers.google.com/youtube/v3 <br>
 Link to json Formater to beautifying the JSON data so that it is easy to read : https://jsonformatter.curiousconcept.com/# <br>
+
+
+
+
+##  **CONCLUSION FOR DROOS ONLINE CHANNEL 📕 (Insights)**:
+
+####  How to Increase video CTR ، Interaction and Subscription Ratio :
+ 
+`- Use more action verbs.` <br><br>
+`- Best CTR titles used in the channel are “تعلم ”, "وصايا”, “مذاكرة ، “نصائح ”` 
+`, “ اسهل” ,“شرح”, “ فقط” , “ اقل ” ، “كيف ”  related to most of top 10 videos of views , likes and Comments` <br><br>
+`- Some Words to avoid to used in Channel are “التحميل”  ، “ ادوات” “مشكلة”` <br><br>
+`- Try to make a clean thumbnail with text color light (white,yellow,skyblue) over bloded colors because it get good clicked on` <br><br>
+`- Avoid low CTR titles that are about: lives and Q&A` <br><br>
+`- Avoid color red in text over dark.` <br><br>
+`- Don’t put multiple objects that saturate the thumbnail.` <br><br>
+`- Don’t making Videos about tut for Windows Programm like IDM or any thing related` <br><br>
+> `Using emojis is almost scarce. One or two can be more attractive that only plain text.`
+
+### > `the most advice i will tell to Ahmed Abozeid  from this Analysis is to making Learning videos with pop learning  and Trending learning Methods For study Techniques and also English Tut to attracting People to get more views and Subscribes `
