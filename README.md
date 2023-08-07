@@ -15,6 +15,9 @@ So it's gonna take a while to finish this notebook with all features involved.<b
 I'm planning to update it regulary whenever I have free time. <br>
 I'll answer each important question first and give a summary in the Final section.<br><br>
 `English is not my native language, so sorry for gramatical errors or similar.`<br><br>
+
+`This Data is Genterated from YouTube API in `06/08/2023` so every video will added to channels we show new result` <br><br>
+
 <span style="color:#47917f">Questions</span><br><br>
 Before performing EDA, we should have a clear objective. So we can make the right questions and the right visualizations.<br>
 * [Q1: What is Title of Video that have highst Views ?]
@@ -39,9 +42,6 @@ Before performing EDA, we should have a clear objective. So we can make the righ
 Link to create YouTube API Key: https://console.cloud.google.com/ <br>
 Link to Google YouTube Data API documentation: https://developers.google.com/youtube/v3 <br>
 Link to json Formater to beautifying the JSON data so that it is easy to read : https://jsonformatter.curiousconcept.com/# <br>
-
-> **This Data is Genterated from YouTube API in `06/08/2023` so every video will added to channels we show new result**
-
 
 
 ##  **CONCLUSION FOR DROOS ONLINE CHANNEL 📕 (Insights)**:
