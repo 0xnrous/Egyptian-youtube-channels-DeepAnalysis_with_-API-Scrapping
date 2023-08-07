@@ -16,7 +16,7 @@ I'm planning to update it regulary whenever I have free time. <br>
 I'll answer each important question first and give a summary in the Final section.<br><br>
 `English is not my native language, so sorry for gramatical errors or similar.`<br><br>
 
-`This Data is Genterated from YouTube API in `06/08/2023` so every video will added to channels we show new result` <br><br>
+`This Data is Genterated from YouTube API in[ `06/08/2023` ]so every video will added to channels we show new result` <br><br>
 
 <span style="color:#47917f">Questions</span><br><br>
 Before performing EDA, we should have a clear objective. So we can make the right questions and the right visualizations.<br>
