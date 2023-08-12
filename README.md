@@ -45,7 +45,7 @@ Link to json Formater to beautifying the JSON data so that it is easy to read : 
 
 
 
-> **Link I for `Streamlit`:** :https://midprojectegyptianyoutube-channels-deepanalysisgit-hfmjdiz9ggu.streamlit.app/ <br>
+> **Link I for `Streamlit`:** https://egyptian-youtube-channels-deepanalysiswith-api-scrapping-mmjmk.streamlit.app/ <br>
 ##  **CONCLUSION FOR DROOS ONLINE CHANNEL 📕 (Insights)**:
 
 ####  How to Increase video CTR ، Interaction and Subscription Ratio :
